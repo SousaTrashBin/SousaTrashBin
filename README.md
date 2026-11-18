@@ -1,9 +1,11 @@
-### Hi, I'm Diogo 👋
+## Diogo Sousa
 
 MSc student in Informatics Engineering at [FCUL](https://ciencias.ulisboa.pt/en), University of Lisbon.
 I work on distributed systems, programming languages and software verification. I like figuring out how systems work and building tools for them.
 
-**Now:** my thesis, **MAZE** (Microservice Analysis with Zero Execution). It's a Python tool that statically checks contracts, analyzes security and estimates energy use in Spring Boot and Quarkus microservices, built to run in CI/CD. *(The code goes public after the thesis.)*
+<a href="https://linkedin.com/in/sousanamain" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24"></a>
+
+**Now:** my thesis, **MAZE** (Microservice Analysis with Zero Execution). It's a Python tool that statically checks contracts, analyzes security and estimates energy use in Spring Boot and Quarkus microservices, built to run in CI/CD.
 
 ---
 
@@ -22,7 +24,6 @@ I work on distributed systems, programming languages and software verification. 
 
 - [train-ticket](https://github.com/FudanSELab/train-ticket/pull/317): fix the HTTP method of a cross-service call in the rebooking flow
 - [yapfast](https://github.com/yapfast/yapfast/pulls?q=author%3ASousaTrashBin): voice-activity indicators and Windows screen-share pointer capture
-- My forks of AutoOAS, code2DFD and microFreshener are baselines for evaluating MAZE
 
 **Stack**
 
@@ -41,5 +42,3 @@ I work on distributed systems, programming languages and software verification. 
   <a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="32"></a>&nbsp;
   <a href="https://kubernetes.io" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="32"></a>&nbsp;
 </p>
-
-<a href="https://linkedin.com/in/sousanamain" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24"></a>&nbsp; Lisbon, PT
